@@ -1,4 +1,8 @@
 ---
+genres:
+  - narrative
+  - adventure
+  - puzzle
 directors_cut: https://lanceewing.github.io/the-kings-missing-page/
 post: https://lanceewing.github.io/blog/js13k/2020/09/27/using-emojis-in-a-point-and-click-adventure-part-1.html
 # See github.com/js13kGames/hello-world for supported frontmatter
